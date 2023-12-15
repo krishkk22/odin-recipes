@@ -1,0 +1,13 @@
+body{
+    background-color: light blue;
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body ul,
+body ol{
+    text-align: left;
+}
+h1{
+    font-weight: bold;
+    font-size: 44px;
+}
